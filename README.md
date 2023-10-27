@@ -1,2 +1,2 @@
 # GuessTheNumber
-A simple guessing game written in C#
+A school project for a simple guessing game written in C#
