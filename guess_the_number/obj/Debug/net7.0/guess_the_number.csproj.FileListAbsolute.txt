@@ -1,0 +1,15 @@
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/bin/Debug/net7.0/guess_the_number
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/bin/Debug/net7.0/guess_the_number.deps.json
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/bin/Debug/net7.0/guess_the_number.runtimeconfig.json
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/bin/Debug/net7.0/guess_the_number.dll
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/bin/Debug/net7.0/guess_the_number.pdb
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.csproj.AssemblyReference.cache
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.AssemblyInfoInputs.cache
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.AssemblyInfo.cs
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.csproj.CoreCompileInputs.cache
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.dll
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/refint/guess_the_number.dll
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.pdb
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/guess_the_number.genruntimeconfig.cache
+/Users/jtippelt/Projects/guess_the_number/guess_the_number/obj/Debug/net7.0/ref/guess_the_number.dll

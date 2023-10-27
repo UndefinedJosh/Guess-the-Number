@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2E8C3C1-02F4-4866-BD15-50724525232F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="guess_the_number/Program.cs">
+    <Files>
+      <File FileName="guess_the_number/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="guess_the_number" expanded="True">
+            <Node name="guess_the_number" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.guess__the__number PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
